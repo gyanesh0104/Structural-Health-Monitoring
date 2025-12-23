@@ -73,5 +73,9 @@ Key parameters used in the notebook:
 - Evaluation includes:
   - Confusion Matrix
   - Precision, Recall, F1-Score
+ 
+## Sample output
+<img width="1176" height="786" alt="image" src="https://github.com/user-attachments/assets/3075b240-ac9f-46f2-80b7-d07cf1aca6a9" />
+
 
 
